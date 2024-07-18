@@ -1,5 +1,5 @@
 [package]
-name = "tui-hex"
+name = "tui-hex-matrix"
 version = "0.1.0"
 edition = "2021"
 
